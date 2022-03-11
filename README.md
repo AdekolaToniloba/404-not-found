@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://error404.netlify.app/}">
+    <a href="https://error404.netlify.app/">
       Solution
     </a>
     <span> | </span>
