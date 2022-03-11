@@ -64,6 +64,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website (https://https://adekolatoni.netlify.app/)
+- Website (https://adekolatoni.netlify.app/)
 - GitHub (https://github.com/AdekolaToniloba/)
 - Twitter (https://twitter.com/atoniloba)
