@@ -61,7 +61,7 @@ button{
 }
 
 /* Media Queries */
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .container {
         margin-left: 24px;
         margin-right: 0;
