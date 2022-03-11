@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://ibb.co/wSkQLwQ)
+![screenshot](https://i.ibb.co/PcLWY9W/Error404.png)
 
 
 ### Built With
